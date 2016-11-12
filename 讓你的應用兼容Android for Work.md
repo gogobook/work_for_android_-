@@ -1,0 +1,18 @@
+# 讓你的應用兼容Android for Work
+Google發佈了Android for Work，該程序讓用戶在企業環境中使用自己的Android設備成為可能。
+
+對於Android Lollipop，企業管理員可以創建Managed Profile（又稱為Work Profile），然後部署到員工的智能手機上並進行遠程管理。Managed Profile可以與用戶的個人Profile共存，用戶無需在兩者之間進行切換。IT部門可以決定哪些應用將被推送到這些受管理的設備、這些設備的相應設置以及可用的功能。例如，Managed Profile可以禁止使用攝像頭。此外，IT管理員能夠隨時刪除應用和整個Profile。
+
+Managed Profile只能安裝在加密設備上。配置和數據都進行了加密並分開存放。用戶對自己的個人數據擁有完全的控制並保證私密性，而管理員則控制著企業數據。工作應用及其通知使用Badge可視化標識。管理員可以從Play Store安裝任何應用，但在將它們推送到設備之前，建議先進行測試。
+
+對於運行Android Ice Cream Sandwich、Jelly Bean或KitKat的設備，企業可以使用Android for Work獨立應用，經由IT部門批准和管理後，它包含的數個應用可以提供安全的服務：郵件、日曆、聯繫人和瀏覽器等等。
+
+對於免費應用，企業可以將其部署到Managed Profile中。而付費應用，開發者需要在發佈過程中選擇是否將應用批量銷售給企業。
+
+如果開發者按照最佳實踐開發自己的Android應用，那麼這些應用將能夠與Android for Work一起工作，不會有什麼問題。反之，則可能面臨一些問題。這些問題與管理員針對Managed Profile的限制和強制執行的設置有關。
+
+開發者應該明白，除非管理員明確允許，Android Intention是無法跨Profile的。而Managed Profile包含的應用數量有限，因此，可能會沒有合適的應用來處理Managed Profile中的Intent，這會導致功能缺失，甚至在處理不當時應用閃退。為了避免這種情況，開發者必須調用Intent.resolveActivity()來檢查自己的Intent是否有對應的處理物件。如果失敗，則儘可能清晰地通知用戶。此外，開發者也不要假設所有設備功能都是有效的，因為管理員可以在Managed Profile中禁用某些功能。
+
+另一個問題源於Profile擁有獨立的存儲區域。這意味著文件URI無法跨Profile傳遞。如果Managed Profile的應用觸發Intent並傳遞一個文件URI，而這個文件URI是由用戶個人Profile中的應用處理時，將會導致失敗。文件URI應該使用FileProvider.getUriForFile()包裝成Content URI再傳遞。
+
+為了確保應用能夠在Managed Profile中正常工作，建議使用Google提供的BasicManagedProfile(下載ZIP)進行測試。要瞭解創建企業應用更詳細的信息，請訪問Building Apps for Work。 
