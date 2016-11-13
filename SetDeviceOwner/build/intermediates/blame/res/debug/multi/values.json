@@ -1,0 +1,66 @@
+[
+    {
+        "outputFile": "/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/SetDeviceOwner/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/SetDeviceOwner/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 53,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endLine": 7,
+                    "endColumn": 90,
+                    "endOffset": 514
+                },
+                "from": {
+                    "file": "/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/SetDeviceOwner/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endLine": 8,
+                        "endColumn": 90,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 519,
+                    "endColumn": 63,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/SetDeviceOwner/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 520,
+                        "endColumn": 63,
+                        "endOffset": 579
+                    }
+                }
+            }
+        ]
+    }
+]

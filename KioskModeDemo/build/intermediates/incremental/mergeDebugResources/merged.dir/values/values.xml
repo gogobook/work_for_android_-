@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kiosk Mode Demo</string>
+    <string name="device_admin">Kiosk Mode Demo</string>
+    <string name="device_admin_description">Kiosk Mode Demo</string>
+</resources>

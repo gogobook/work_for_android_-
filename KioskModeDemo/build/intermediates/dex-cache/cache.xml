@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="685285caaaddf041cdce9b247daea2584fcea2c1">
+        <dex dex="/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c3e3ebe9b082a237437d7ad65e8b19575e15fe89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e93d36745bda1944bb560615ba4bbfd149e4fb6">
+        <dex dex="/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4bf3b568fb9d43791d642b08427041883e1db361/classes.dex" />
+    </item>
+
+</items>

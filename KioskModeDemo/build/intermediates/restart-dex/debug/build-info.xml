@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="61499945302230"
+    token="-6771573295215452293"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="64" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="56" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/outputs/apk/KioskModeDemo-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="61499945302230"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/outputs/apk/KioskModeDemo-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

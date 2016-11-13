@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sun Nov 13 14:08:02 CST 2016
+1.base=/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/intermediates/res/resources-debug.ap_
+1.file=/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+2.base=/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+count=4
+1.set=ANDROID_RESOURCE
+3.base=/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/intermediates/res/resources-debug.ap_
+3.file=/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.file=/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/intermediates/res/resources-debug.ap_/res/xml/device_admin.xml

@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 977,
+                        "endColumn": 52,
+                        "endOffset": 1025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 56,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1030,
+                        "endColumn": 56,
+                        "endOffset": 1082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endColumn": 68,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1087,
+                        "endColumn": 68,
+                        "endOffset": 1151
+                    }
+                }
+            }
+        ]
+    }
+]

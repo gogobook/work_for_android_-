@@ -1,0 +1,7 @@
+#Sun Nov 13 14:08:03 CST 2016
+base.0=/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c3e3ebe9b082a237437d7ad65e8b19575e15fe89
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4bf3b568fb9d43791d642b08427041883e1db361/classes.dex
+base.1=/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4bf3b568fb9d43791d642b08427041883e1db361
+file.0=/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/KioskModeDemo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c3e3ebe9b082a237437d7ad65e8b19575e15fe89/classes.dex

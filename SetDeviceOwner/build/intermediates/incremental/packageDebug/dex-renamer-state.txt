@@ -1,0 +1,4 @@
+#Sun Nov 13 14:37:08 CST 2016
+base.0=/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/SetDeviceOwner/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/media/lee/78b3df3f-70e8-4101-b632-d3b341665d5f/samsung_open_source/android_for_work/SetDeviceOwner/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
